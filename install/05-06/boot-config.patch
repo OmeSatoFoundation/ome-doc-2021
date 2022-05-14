@@ -1,0 +1,11 @@
+--- /boot/config.txt.org	2019-08-18 16:32:03.000000000 +0900
++++ /boot/config.txt	2019-08-18 15:15:28.000000000 +0900
+@@ -57,6 +57,5 @@
+ 
+ # NOOBS Auto-generated Settings:
+ hdmi_force_hotplug=1
+-dtoverlay=lirc-rpi
+-dtparam=gpio_out_pin=13
+-dtparam=gpio_in_pin=4
++dtoverlay=gpio-ir,gpio_pin=4
++dtoverlay=gpio-ir-tx,gpio_pin=13

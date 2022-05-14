@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg821"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="brick_list_grp.svg">
+  <defs
+     id="defs815" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="328.82461"
+     inkscape:cy="634.34367"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="1680"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="guideline"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;opacity:1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="content"
+     style="display:inline">
+    <g
+       id="g1233"
+       transform="translate(1.0579824e-6)"
+       inkscape:tile-cx="45.999998"
+       inkscape:tile-cy="56.999999"
+       inkscape:tile-w="51.999997"
+       inkscape:tile-h="79.999996"
+       inkscape:tile-x0="20"
+       inkscape:tile-y0="17">
+      <rect
+         y="17.157726"
+         x="20.157724"
+         height="79.684547"
+         width="51.684547"
+         id="rect5193"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.31545088;stroke-opacity:1" />
+      <text
+         id="text825"
+         y="34.407692"
+         x="20.663767"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.70000005;font-family:IPAexGothic;-inkscape-font-specification:'IPAexGothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan1185"
+           x="20.663767"
+           y="34.407692">- LED (1個)</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1187"
+           x="20.663767"
+           y="41.004635">- 照度センサー (1個)</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1189"
+           x="20.663767"
+           y="47.601582">- 振動子 (1個)</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1191"
+           x="20.663767"
+           y="54.198524">- リミットスイッチ (1個)</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1193"
+           x="20.663767"
+           y="60.795471">- 傾斜センサー (1個)</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1195"
+           x="20.663767"
+           y="67.392418">- 距離センサー (1個)</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1197"
+           x="20.663767"
+           y="73.989357">- ゆうきELディスプレイ (1個)</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1199"
+           x="20.663767"
+           y="80.586304">- 長い3ピンケーブル (1本)</tspan><tspan
+           sodipodi:role="line"
+           id="tspan1201"
+           x="20.663767"
+           y="87.18325">- 4ピンケーブル (2本)</tspan></text>
+      <text
+         id="text1390"
+         y="24.385082"
+         x="21.653877"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:IPAexGothic;-inkscape-font-specification:IPAexGothic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;font-family:IPAexGothic;-inkscape-font-specification:IPAexGothic;stroke-width:0.26458332"
+           y="24.385082"
+           x="21.653877"
+           id="tspan1388"
+           sodipodi:role="line">FaBo Bricks 班用</tspan></text>
+    </g>
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:IPAexGothic;-inkscape-font-specification:IPAexGothic;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot4780"
+       xml:space="preserve"><flowRegion
+         id="flowRegion4782"
+         style="stroke-width:0.26458332"><rect
+           y="8.2261896"
+           x="8.3154764"
+           height="102.80952"
+           width="80.508926"
+           id="rect4784"
+           style="stroke-width:0.07000434" /></flowRegion><flowPara
+         id="flowPara4786"
+         style="stroke-width:0.26458332" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="26.459681"
+       y="41.757603"
+       id="text821"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="26.459681"
+         y="45.657562"
+         style="font-size:3.88055563px;stroke-width:0.26458332" /></text>
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g1233"
+       xlink:href="#g1233"
+       id="use1235" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g1233"
+       xlink:href="#g1233"
+       transform="translate(0,79.999996)"
+       id="use1237" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g1233"
+       xlink:href="#g1233"
+       transform="translate(0,159.99999)"
+       id="use1239" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g1233"
+       xlink:href="#g1233"
+       transform="translate(51.999997)"
+       id="use1241" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g1233"
+       xlink:href="#g1233"
+       transform="translate(51.999997,79.999996)"
+       id="use1243" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g1233"
+       xlink:href="#g1233"
+       transform="translate(51.999997,159.99999)"
+       id="use1245" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g1233"
+       xlink:href="#g1233"
+       transform="translate(103.99999)"
+       id="use1247" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g1233"
+       xlink:href="#g1233"
+       transform="translate(103.99999,79.999996)"
+       id="use1249" />
+    <use
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g1233"
+       xlink:href="#g1233"
+       transform="translate(103.99999,159.99999)"
+       id="use1251" />
+  </g>
+</svg>

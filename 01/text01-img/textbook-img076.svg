@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg602"
+    xml:space="preserve"
+    sodipodi:version="0.34"
+    height="15cm"
+    width="7cm"
+    sodipodi:docname="D:\Documents and Settings\Chris\My Documents\mouse.svg"
+    sodipodi:docbase="D:\Documents and Settings\Chris\My Documents"
+  >
+  <defs
+      id="defs604"
+    >
+    <linearGradient
+        id="linearGradient650"
+      >
+      <stop
+          id="stop651"
+          style="stop-color:#ffffff"
+          offset="0"
+      />
+      <stop
+          id="stop652"
+          style="stop-color:#333333"
+          offset="1"
+      />
+    </linearGradient
+    >
+    <linearGradient
+        id="linearGradient643"
+        x1=".96252"
+        spreadMethod="reflect"
+        y1=".24171"
+        x2=".96250"
+        y2=".26381"
+      ><stop
+          id="stop641"
+          style="stop-color:#333333"
+          offset="0"
+      /><stop
+          id="stop642"
+          style="stop-color:#ffffff"
+          offset="1"
+      /></linearGradient
+    >
+    <radialGradient
+        id="radialGradient644"
+        spreadMethod="reflect"
+        cy=".42748"
+        cx="-.017216"
+        r=".87932"
+      ><stop
+          id="stop647"
+          style="stop-color:#b3b3eb;stop-opacity:0"
+          offset="0"
+      /><stop
+          id="stop648"
+          style="stop-color:#000000"
+          offset="1"
+      /></radialGradient
+    >
+    <radialGradient
+        id="radialGradient654"
+        xlink:href="#linearGradient650"
+        spreadMethod="reflect"
+        cy="0.125"
+        cx=".17647"
+        r="1.0785"
+    />
+    <radialGradient
+        id="radialGradient656"
+        xlink:href="#linearGradient650"
+        spreadMethod="reflect"
+        cy=".68751"
+        cx=".91666"
+        gradientTransform="scale(1 .99999)"
+        r="1.4491"
+    />
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+  />
+  <path
+      id="path637"
+      sodipodi:nodetypes="cc"
+      style="stroke:#4c4c4c;stroke-width:7.75;stroke-linecap:square;fill:none"
+      d="m118.75 191.5c45.63-125-85-49.38-36.875-180.63"
+  />
+  <path
+      id="path617"
+      sodipodi:nodetypes="ccccccccccccccccc"
+      style="fill-rule:evenodd;stroke:#000000;stroke-width:1.125;fill:url(#radialGradient654)"
+      d="m117.6 512.93c-73.244 0-84.317-65.02-83.559-85.62 1.127-19.43 2.065-97.59-1.17-163.4 0.824-71.92 55.773-70.2 84.709-70.2 28.94 0 83.89-1.72 84.72 70.2-3.24 65.81-2.3 143.97-1.17 163.4 0.75 20.6-10.32 85.61-83.56 85.61"
+  />
+  <path
+      id="path655"
+      sodipodi:rx="15.9375"
+      sodipodi:ry="34.6875"
+      style="fill:url(#radialGradient656);fill-rule:evenodd"
+      sodipodi:type="arc"
+      d="m133.75 254.93a15.938 34.688 0 1 0 -31.87 0 15.938 34.688 0 1 0 31.87 0z"
+      transform="matrix(.98039 0 0 1.2432 1.9975 -62.323)"
+      sodipodi:cy="254.933533"
+      sodipodi:cx="117.8125"
+  />
+  <path
+      id="path618"
+      style="stroke:#000000;stroke-width:1.25;fill:none"
+      d="m117.57 194.13v118.58"
+  />
+  <path
+      id="path639"
+      sodipodi:rx="11.5625"
+      sodipodi:ry="26.25"
+      style="fill:url(#linearGradient643);fill-rule:evenodd"
+      sodipodi:type="arc"
+      d="m129.38 257.12a11.562 26.25 0 1 0 -23.13 0 11.562 26.25 0 1 0 23.13 0z"
+      transform="translate(0 -3.125)"
+      sodipodi:cy="257.121033"
+      sodipodi:cx="117.8125"
+  />
+  <path
+      id="path645"
+      sodipodi:rx="11.5625"
+      sodipodi:ry="26.25"
+      style="fill:url(#radialGradient644);fill-rule:evenodd"
+      sodipodi:type="arc"
+      d="m129.38 257.12a11.562 26.25 0 1 0 -23.13 0 11.562 26.25 0 1 0 23.13 0z"
+      transform="translate(0 -3.125)"
+      sodipodi:cy="257.121033"
+      sodipodi:cx="117.8125"
+  />
+  <path
+      id="path619"
+      sodipodi:nodetypes="cc"
+      style="stroke:#000000;stroke-linecap:round;stroke-width:1.25;fill:none"
+      d="m117.36 312.65c-82.348 0-80.164 3.3-82.625 3.92"
+  />
+  <path
+      id="path620"
+      sodipodi:nodetypes="cc"
+      style="stroke:#000000;stroke-width:1.25;stroke-linecap:round;fill:none"
+      d="m117.57 312.65c83.17 0 82.89 4.67 82.89 4.67"
+  />
+<metadata
+    ><rdf:RDF
+      ><cc:Work
+        ><dc:format
+          >image/svg+xml</dc:format
+        ><dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        /><cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        /><dc:publisher
+          ><cc:Agent
+              rdf:about="http://openclipart.org/"
+            ><dc:title
+              >Openclipart</dc:title
+            ></cc:Agent
+          ></dc:publisher
+        ><dc:title
+          >Computer mouse (top-down view)</dc:title
+        ><dc:date
+          >2007-02-06T00:02:10</dc:date
+        ><dc:description
+          >A simple top-down, shaded view of a computer mouse with a scroll wheel.</dc:description
+        ><dc:source
+          >https://openclipart.org/detail/3038/computer-mouse-(top-down-view)-by-crispy</dc:source
+        ><dc:creator
+          ><cc:Agent
+            ><dc:title
+              >Crispy</dc:title
+            ></cc:Agent
+          ></dc:creator
+        ><dc:subject
+          ><rdf:Bag
+            ><rdf:li
+              >computer</rdf:li
+            ><rdf:li
+              >computer mouse</rdf:li
+            ><rdf:li
+              >computing</rdf:li
+            ><rdf:li
+              >how i did it</rdf:li
+            ><rdf:li
+              >mouse</rdf:li
+            ></rdf:Bag
+          ></dc:subject
+        ></cc:Work
+      ><cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        ><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        /><cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        /></cc:License
+      ></rdf:RDF
+    ></metadata
+  ></svg
+>

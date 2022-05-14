@@ -1,0 +1,26 @@
+# 2019 年度 1班あたりの FaBo キット内容物
+
+|内容|1班あたりの数量|
+|--|--|
+|LED Blue|1|
+|LED Green|1|
+|LED Red|1|
+|LED White|1|
+|LED Yello|1|
+|||
+|Button|4|
+|Switch|4|
+|Touch|4|
+|Angle|4|
+|Light|1|
+|||
+|Vibrator|1|
+|LimitSwitch|1|
+|Tilt|1|
+|Distance|1|
+|||
+|OLED|1|
+|||
+|3pinケーブル短|12|
+|3pinケーブル長|1|
+|4pinケーブル|2|
